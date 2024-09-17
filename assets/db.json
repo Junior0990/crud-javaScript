@@ -1,0 +1,14 @@
+{
+  "canciones": [
+    {
+      "id": 1,
+      "nombre": "Goteo",
+      "genero": "Trap"
+    },
+    {
+      "id": 2,
+      "nombre": "Hidro",
+      "genero": "Trap DIOS"
+    }
+  ]
+}
